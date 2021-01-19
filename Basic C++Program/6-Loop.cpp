@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
+
     /*Loops in C++:
     There are three types of loops in C++:
         1. For loop
